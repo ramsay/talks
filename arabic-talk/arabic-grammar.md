@@ -1,4 +1,4 @@
-some arabic Grammer
+some arabic Grammar
 ========================
 
 ```python
